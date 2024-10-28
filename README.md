@@ -1,9 +1,9 @@
 # Weather Data Retrieval and Analysis System
-Hosted link: https://nikhil292714.github.io/Weather_ForeCast_Application/
+Hosted link: 
 
 
 
-![sun](https://github.com/user-attachments/assets/b252c407-886a-44a2-a368-3e9d353db011)
+
 
 
 
